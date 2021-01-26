@@ -1,7 +1,4 @@
-**/201903_litpop_exposure_data_model/climada_v1.3.1/results
 .DS_Store
-**201903_litpop_exposure_data_model/climada_v1.3.1/old
-**/201903_litpop_exposure_data_model/climada_v1.3.1/.DS_Store
 /202005_tropical_cyclone_calibration/plots/*
 /202005_tropical_cyclone_calibration/data/results/*
 /202005_tropical_cyclone_calibration/data/*emdat*
