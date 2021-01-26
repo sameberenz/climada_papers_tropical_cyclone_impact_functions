@@ -1,10 +1,10 @@
 # Regional tropical cyclone impact functions for globally consistent risk assessments (CLIMADA v.1.4.1)
 
-This repository contains a folder for the code used in a research article. The code replicates the figures and explains software components implemented in [CLIMADA Python](https://github.com/CLIMADA-project/climada_python).
+This repository contains a folder for the code used in a research article. The code replicates the figures and tables, and provides calibration code implemented in [CLIMADA Python](https://github.com/CLIMADA-project/climada_python).
 
 Eberenz, S., Lüthi, S., and Bresch, D. N.: Regional tropical cyclone impact functions for globally consistent risk assessments. Accepted for publication by the journal Natural Hazards and Earth System Sciences (NHESS). Initial submission: https://doi.org/10.5194/nhess-2020-229.       
 
-The calibrated impact functions are part of the main branch of [CLIMADA v.1.5.1+](https://github.com/CLIMADA-project/climada_python/releases) 
+The calibrated impact functions are part of the main branch of [CLIMADA v.1.5.1+](https://github.com/CLIMADA-project/climada_python/releases)
 in the class [climada.entity.impact_funcs.trop_cyclone.IFSTropCyclone](https://github.com/CLIMADA-project/climada_python/blob/main/climada/entity/impact_funcs/trop_cyclone.py).
 
 Contact: [Samuel Eberenz](mailto:samuel.eberenz@usys.ethz.ch)
