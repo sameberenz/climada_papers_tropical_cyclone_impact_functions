@@ -90,6 +90,7 @@ If script fails, revert CLIMADA version to release v1.4.1:
 Eberenz, S., Lüthi, S., and Bresch, D. N.: Regional tropical cyclone impact functions for globally consistent risk assessments, Nat. Hazards Earth Syst. Sci., 21, 393–415, https://doi.org/10.5194/nhess-21-393-2021, 2021. 
 
 ## Updates
+* 2021-01-29: update of DOI in reference to final published paper
 * 2021-01-21: update of figures and tables in Jupyter Notebook after peer review and acceptance for publication in NHESS; preparation for publication with Zenodo DOI.
 * 2020-07-09: initial commit [3e5696ca0c1e463c7656379eb95c4e03fb91e32a](https://github.com/CLIMADA-project/climada_papers/commit/3e5696ca0c1e463c7656379eb95c4e03fb91e32a)
 -----
